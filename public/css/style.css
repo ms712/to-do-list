@@ -1,0 +1,51 @@
+body{
+  background: lightgreen;
+}
+h1{
+  color: red;
+  text-align: center;
+  font-size: 3.5rem;
+  font-family: cursive;
+
+}
+h2{
+  position: absolute;
+  top:0;
+  color: red;
+}
+h3{
+  position: absolute;
+  right: 0;
+  top: 0;
+  color: red;
+  font-size: 1.2rem;
+}
+ul{
+
+  list-style: none;
+  padding: 50px;
+  font-size: 1.5rem;
+  background-color: white;
+  margin: 0 auto;
+  width: 10%;
+  border: 1px solid black;
+}
+li{
+  padding: 10px;
+
+  font-family: cursive;
+  border-bottom: 1px solid purple;
+
+}
+.box{
+  text-align: center;
+  margin: 20px;
+
+}
+ input{
+  padding: 10px;
+
+  border: 2px solid black ;
+  border-radius: 10px;
+  outline: none;
+}
